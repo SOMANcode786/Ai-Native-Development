@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+ai_native_development.egg-info/PKG-INFO
+ai_native_development.egg-info/SOURCES.txt
+ai_native_development.egg-info/dependency_links.txt
+ai_native_development.egg-info/requires.txt
+ai_native_development.egg-info/top_level.txt

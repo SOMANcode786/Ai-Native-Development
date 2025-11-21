@@ -1,0 +1,13 @@
+[project]
+name = "ai-native-development"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flask>=3.1.2",
+    "questionary>=2.0.1",
+    "rich>=13.7.1",
+    "prompt-toolkit>=3.0.43",
+    "wcwidth>=0.2.13",
+]
